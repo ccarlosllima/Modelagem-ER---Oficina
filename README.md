@@ -3,6 +3,8 @@
 
 ## Modelagem de uma possível solução para gerenciamento e execução de ordem de serviço em uma oficina mecânica
 
-##3 **Narrativa**: Cliente leva veículo para manutenção ou revisão.
+### **Narrativa**: Cliente leva veículo para manutenção ou revisão.
 
-* cliente possui um ou mais veículo
+* Cliente possui um ou mais veículo.
+* Cada veiculo é analisado por uma equipe de mecânico.
+* Uma OS pertence somente a um cliente. A mesma contém o servico a ser realizado, o valor da mão de obra e as pecas usadas no serviço. 
