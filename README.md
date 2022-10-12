@@ -7,4 +7,4 @@
 
 * Cliente possui um ou mais veículo.
 * Cada veiculo é analisado por uma equipe de mecânico.
-* Uma OS pertence somente a um cliente. A mesma contém o servico a ser realizado, o valor da mão de obra e as pecas usadas no serviço. 
+* Uma OS pertence somente a um cliente. A mesma contém os serviço a serem executados, o valor da mão de obra e as pecas usadas no serviço. 
